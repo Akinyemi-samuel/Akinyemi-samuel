@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=samfrosh" alt="samfrosh" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/sams_tweet" target="blank"><img src="https://img.shields.io/twitter/follow/sams_tweet?logo=twitter&style=for-the-badge" alt="sams_tweet" /></a> </p>
+<p align="left"> <a href="https://twitter.com/sam's_tweet" target="blank"><img src="https://img.shields.io/twitter/follow/sam's_tweet?logo=twitter&style=for-the-badge" alt="sam's_tweet" /></a> </p>
 
 - 🔭 I’m currently working on **My Portfolio Website**
 
