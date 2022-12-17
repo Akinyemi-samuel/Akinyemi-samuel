@@ -19,7 +19,7 @@
 
 - 📄 I am looking to contribute to **open Source projects**
 
-- 📫 How to reach me [samfrosh673@gmail.com](samfrosh673@gmail.com)
+- 📫 You reach me on [samfrosh673@gmail.com](samfrosh673@gmail.com)
 
 - ⚡ Fun fact **I do like travelling a lot😉**
 
