@@ -21,7 +21,7 @@
 
 - 📫 You reach me on [samfrosh673@gmail.com](samfrosh673@gmail.com)
 
-- ⚡ Fun fact **I do like travelling a lot😉**
+- ⚡ Fun fact - **I do like travelling a lot😉**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
