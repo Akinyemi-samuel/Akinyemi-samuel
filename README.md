@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **Java & spring 😊**
 
-- 🤝 I’m looking for help with **Any issue you might encounter in the world of programming**
+- 🤝 I’m looking to help with **Any issue you might encounter in the world of programming**
 
 - 📄 I am looking to contribute to **open Source projects**
 
