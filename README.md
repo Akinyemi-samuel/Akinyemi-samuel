@@ -1,3 +1,5 @@
+<img src="[https://img.shields.io/twitter/follow/sarhmfrosh?logo=twitter&style=for-the-badge](https://th.bing.com/th/id/R.7dc3bd8b7760d223b8f12326c6f43627?rik=xVLXf3XbRamdwQ&pid=ImgRaw&r=0)" width="100%" alt="sarhmfrosh" />
+
 <h1 align="center">Hi 👋, I'm Samuel Akinyemi</h1>
 <h3 align="center">A developer trying to develop a way into programming</h3>
 
