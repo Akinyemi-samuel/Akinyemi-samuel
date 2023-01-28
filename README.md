@@ -10,6 +10,7 @@
 <p align="left"> <a href="https://twitter.com/sarhmfrosh" target="blank"><img src="https://img.shields.io/twitter/follow/sarhmfrosh?logo=twitter&style=for-the-badge" alt="sarhmfrosh" /></a> </p>
 
 - 🔭 I’m currently working on **My Portfolio Website**
+- <a href="https://a-samuel.netlify.app/" target="blank">My portfolio</a>
 
 - 🌱 I’m currently learning **Angular & Typescript**
 
