@@ -11,7 +11,7 @@
 
 - <a href="https://a-samuel.netlify.app/" target="blank">My portfolio</a>
 
-- 🌱 I’m currently learning **Docker & Kubernetes**
+- 🌱 I’m currently learning **AWS Cloud**
 
 - 💬 Ask me about **Java & spring 😊**
 
