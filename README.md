@@ -37,7 +37,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Akinyemi-samuel&show_icons=true&locale=en&layout=compact" alt="samfrosh" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Akinyemi-samuel&show_icons=true&locale=en" alt="samfrosh" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Akinyemi-samuel&" alt="samfrosh" /></p>
 
