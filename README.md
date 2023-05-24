@@ -7,8 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Akinyemi-samuel" alt="samfrosh" /></a> </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/Akinyemi-samuel=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="[![trophy](https://github-profile-trophy.vercel.app/Akinyemi-samuel=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)" alt="samfrosh" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/sarhmfrosh" target="blank"><img src="https://img.shields.io/twitter/follow/sarhmfrosh?logo=twitter&style=for-the-badge" alt="sarhmfrosh" /></a> </p>
 
