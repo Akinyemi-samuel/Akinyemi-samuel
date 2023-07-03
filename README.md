@@ -13,7 +13,7 @@
 
 - <a href="https://a-samuel.netlify.app/" target="blank">My portfolio</a>
 
-- 🌱 I’m currently learning **AWS Cloud**
+- 🌱 I’m currently learning **AWS Cloud Services**
 
 - 💬 Ask me about **Java & spring 😊**
 
