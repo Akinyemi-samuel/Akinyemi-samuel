@@ -17,7 +17,7 @@
 
 - 🤝 I’m looking to help with **Any issue you might encounter in the world of programming**
 
-- 📄 I am looking to contribute to **open Source projects**
+- 📄 I am looking to contribute to **open Source project**
 
 - 📫 You reach me on [akinyemisamuelayo@gmail.com](akinyemisamuelayo@gmail.com)
 
