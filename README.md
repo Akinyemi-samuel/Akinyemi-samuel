@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/sarhmfrosh" target="blank"><img src="https://img.shields.io/twitter/follow/sarhmfrosh?logo=twitter&style=for-the-badge" alt="sarhmfrosh" /></a> </p>
 
-- <a href="https://a-samuel.netlify.app/" target="blank">My portfolio</a>
+<!--- <a href="https://a-samuel.netlify.app/" target="blank">My portfolio</a>-->
 
 - 🌱 I’m currently learning **AWS Cloud Services**
 
