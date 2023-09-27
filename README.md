@@ -11,9 +11,9 @@
 
 <!--- <a href="https://a-samuel.netlify.app/" target="blank">My portfolio</a>-->
 
-- 🌱 I’m currently learning **AWS Cloud Services**
+<!--- - 🌱 I’m currently learning **AWS Cloud Services**-->
 
-- 💬 Ask me about **Java & spring 😊**
+- 💬 Ask me about **Software engineering 😊**
 
 - 🤝 I’m looking to help with **Any issue you might encounter in the world of programming**
 
