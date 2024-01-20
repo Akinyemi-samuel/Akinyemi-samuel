@@ -1,5 +1,3 @@
-<!-- <img src="https://th.bing.com/th/id/OIP.lT2MFAkuTPhZW__tqbkF1wHaEo?pid=ImgDet&w=2880&h=1800&rs=1" width="100%" alt="sarhmfrosh" /> -->
-
 <h1 align="center">Hi 👋, I'm Samuel Akinyemi</h1>
 <h3 align="center">The OOP guy</h3>
 
