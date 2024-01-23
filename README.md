@@ -9,7 +9,7 @@
 
 <!--- <a href="https://a-samuel.netlify.app/" target="blank">My portfolio</a>-->
 
-<!--- - 🌱 I’m currently learning **AWS Cloud Services**-->
+🌱 I’m currently reading **Java Streams Api**
 
 - 💬 Ask me about **Software engineering 😊**
 
