@@ -1,4 +1,7 @@
 <h1 align="center">Hi 👋, I'm Samuel Akinyemi</h1>
+
+<div align="center"> <img src="https://media2.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif?cid=790b7611597cbb8f2a57ea1e22472c70a2e6f0e623ad2e80&rid=giphy.gif&ct=s" width="150px"/> </div>
+ 
 <h3 align="center">The OOP guy</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samfrosh&label=Profile%20views&color=0e75b6&style=flat" alt="samfrosh" /> </p>
