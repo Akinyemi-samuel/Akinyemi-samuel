@@ -20,7 +20,7 @@
 
 - 📄 I am looking to contribute to **open Source project**
 
-- 📫 You reach me on [akinyemisamuelayo@gmail.com](akinyemisamuelayo@gmail.com)
+- 📫 You can reach me on [akinyemisamuelayo@gmail.com](akinyemisamuelayo@gmail.com)
 
 - ⚡ Fun fact - **I do like travelling a lot😉**
 
